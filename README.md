@@ -16,11 +16,11 @@
   
 
   ## Usage 
-  
 
+HTML, Bootstrap, JavaScript
 
   ### Deployed Link
-  .
+  
 
 ### Screenshots
 No screenshots yet.
