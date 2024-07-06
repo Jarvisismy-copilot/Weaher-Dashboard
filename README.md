@@ -24,9 +24,9 @@ HTML, Bootstrap, JavaScript
 
 ### Screenshots
 
-![screenshot-0](images/Weather API 2.jpg)
-![screenshot-2](images/Weather API.jpg)
-![screenshot-3](assets/images/ss.png)
+![Weather API 2](https://github.com/Jarvisismy-copilot/Weaher-Dashboard-API-/assets/160912526/1b8c40df-159e-4f50-8550-f06bac70833a)
+![Weather API](https://github.com/Jarvisismy-copilot/Weaher-Dashboard-API-/assets/160912526/7eb4da91-c31e-40ae-a55f-9b4fbeded4b2)
+![Weather API 3](https://github.com/Jarvisismy-copilot/Weaher-Dashboard-API-/assets/160912526/fb46a8fa-55dd-4a95-a002-07a3dd9cba5b)
 
 ______________________________________________________________________________
 
