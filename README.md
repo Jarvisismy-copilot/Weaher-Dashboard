@@ -23,7 +23,10 @@ HTML, Bootstrap, JavaScript
   
 
 ### Screenshots
-No screenshots yet.
+
+![screenshot-0](images/Weather API 2.jpg)
+![screenshot-2](images/Weather API.jpg)
+![screenshot-3](assets/images/ss.png)
 
 ______________________________________________________________________________
 
